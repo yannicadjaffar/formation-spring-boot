@@ -12,6 +12,8 @@ import javax.annotation.PostConstruct;
 @SpringBootApplication
 @EnableJpaRepositories
 public class DemoSeptembreApplication {
+
+  //Coucou
   
   @Autowired
   private UserDao userDao;
